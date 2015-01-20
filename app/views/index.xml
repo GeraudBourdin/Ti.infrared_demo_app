@@ -1,0 +1,10 @@
+<Alloy>
+	<Window class="container">
+		<Button id="transmit" onClick="transmit" title="transmit"
+            top="10" width="200" height="50" />
+		<Button id="prontoHexTransmit" onClick="prontoHexTransmit" title="prontoHexTransmit"
+            top="100" width="200" height="50" />
+        <Button id="prontoHexConvert" onClick="prontoHexConvert" title="prontoHex convert"
+            top="190" width="200" height="50" />
+	</Window>
+</Alloy>
